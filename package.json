@@ -1,0 +1,10 @@
+{
+  "name": "@koddsson/tsconfig",
+  "version": "0.0.0",
+  "description": "My TypeScript config",
+  "main": "tsconfig.json",
+  "files": ["tsconfig.json"],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
